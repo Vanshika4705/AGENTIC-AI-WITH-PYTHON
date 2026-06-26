@@ -1,4 +1,4 @@
-# 🤖 Agentic AI with Python
+#  Agentic AI with Python
 
 ### 6-Week Training Program
 
