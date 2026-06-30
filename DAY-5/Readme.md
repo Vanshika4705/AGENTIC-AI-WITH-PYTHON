@@ -10,7 +10,7 @@ The fifth day of the **Agentic AI with Python Training Program** focused on **Py
 
 ---
 
-## Learning Outcomes
+## Learning Highlights:
 
 ### 1. Python Operators
 
@@ -29,16 +29,14 @@ During today's session, I developed a clear understanding of Python operators an
 
 ### Python Operators Overview
 
-| Operator Type | Symbols | Purpose |
-|--------------|----------|---------|
-| **Arithmetic Operators** | `+` `-` `*` `/` `%` `//` `**` | Perform mathematical calculations such as addition, subtraction, multiplication, division, modulus, floor division, and exponentiation. |
-| **Comparison (Relational) Operators** | `==` `!=` `>` `<` `>=` `<=` | Compare two values and return either `True` or `False`. |
-| **Logical Operators** | `and` `or` `not` | Combine or modify Boolean expressions to make logical decisions. |
-| **Assignment Operators** | `=` `+=` `-=` `*=` `/=` `%=` `//=` `**=` `&=` `|=` `^=` `>>=` `<<=` | Assign or update values stored in variables. |
-| **Bitwise Operators** | `&` `|` `^` `~` | Perform operations directly on the binary representation of integers. |
-| **Shift Operators** | `<<` `>>` | Shift bits to the left or right for efficient binary operations. |
-| **Membership Operators** | `in` `not in` | Check whether a value exists inside a sequence such as a list, tuple, string, or dictionary. |
-| **Identity Operators** | `is` `is not` | Check whether two variables refer to the same object in memory. |
+- **Arithmetic Operators (`+`, `-`, `*`, `/`, `%`, `//`, `**`)** – Perform mathematical calculations such as addition, subtraction, multiplication, division, modulus, floor division, and exponentiation.
+- **Comparison (Relational) Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)** – Compare two values and return either `True` or `False`.
+- **Logical Operators (`and`, `or`, `not`)** – Combine or modify Boolean expressions to make logical decisions.
+- **Assignment Operators (`=`, `+=`, `-=`, `*=`, `/=`, `%=`, `//=`, `**=`, `&=`, `|=`, `^=`, `>>=`, `<<=`)** – Assign or update values stored in variables.
+- **Bitwise Operators (`&`, `|`, `^`, `~`)** – Perform operations directly on the binary representation of integers.
+- **Shift Operators (`<<`, `>>`)** – Shift bits to the left or right for efficient binary operations.
+- **Membership Operators (`in`, `not in`)** – Check whether a value exists inside a sequence such as a list, tuple, string, or dictionary.
+- **Identity Operators (`is`, `is not`)** – Check whether two variables refer to the same object in memory.
 
 ### Key Learnings
 
@@ -50,7 +48,7 @@ During today's session, I developed a clear understanding of Python operators an
 
 ---
 
-## 2. Bitwise & Shift Operators
+### 2. Bitwise & Shift Operators
 
 This session introduced binary-level operations that are commonly used in system programming and optimization.
 
@@ -77,7 +75,7 @@ This session introduced binary-level operations that are commonly used in system
 
 ---
 
-### 3.Conditional Constructs
+### 3. Conditional Constructs
 
 Conditional statements allow programs to make decisions based on different situations.
 
@@ -160,8 +158,4 @@ By the end of today's session, I was able to:
 
 ## Concluding Remarks
 
-Day 5 provided a deeper understanding of Python's core programming concepts. Learning about operators enhanced my ability to perform calculations, comparisons, and logical evaluations efficiently, while conditional constructs strengthened my understanding of decision-making in programming.
-
-The **"Another Brick in the Wall"** assignment was an excellent opportunity to apply multiple concepts together, including variables, operators, loops, and conditional statements. It improved both my logical thinking and coding skills by encouraging a structured approach to solving problems.
-
-Overall, today's session strengthened my programming fundamentals and increased my confidence in writing logical, efficient, and well-structured Python programs.
+Day 5 strengthened my understanding of Python operators and conditional statements, helping me build a stronger foundation in logical programming. The **"Another Brick in the Wall"** assignment reinforced these concepts through practical implementation and improved my problem-solving skills. Overall, the session enhanced my confidence in writing logical and well-structured Python programs.
