@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Vanshika's Agentic AI with Python journal." />
+  <meta name="theme-color" content="#f7f1e8" />
+  <title>Agentic AI with Python - Studio Journal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="backdrop backdrop-a"></div>
+  <div class="backdrop backdrop-b"></div>
+  <div class="grain"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Home">
+      <span class="brand-mark">VA</span>
+      <span class="brand-copy">
+        <strong>Vanshika</strong>
+        <small>Agentic AI with Python</small>
+      </span>
+    </a>
+    <nav>
+      <a href="#journal">Journal</a>
+      <a href="#highlights">Highlights</a>
+      <a href="#about">About</a>
+      <a class="github-link" href="https://github.com/Vanshika4705/AGENTIC-AI-WITH-PYTHON" target="_blank" rel="noreferrer">GitHub -></a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> 6-week training program</p>
+        <h1>Learning in public,<br><em>one session at a time.</em></h1>
+        <p class="lede">
+          A living archive of daily notes, code, images, and reflections from the Agentic AI with Python journey.
+          Push a new session folder to GitHub and the site updates itself automatically.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#journal">Open the journal</a>
+          <span class="status" id="last-updated">Syncing from GitHub</span>
+        </div>
+      </div>
+
+      <aside class="hero-card" aria-hidden="true">
+        <div class="hero-card-top">
+          <span class="badge">Live archive</span>
+          <span class="mini-stat" id="day-count">06 sessions</span>
+        </div>
+        <div class="cover-orbit">
+          <div class="cover-ring ring-one"></div>
+          <div class="cover-ring ring-two"></div>
+          <div class="cover-core">
+            <span>Python</span>
+            <strong>AI</strong>
+          </div>
+        </div>
+        <div class="hero-card-bottom">
+          <div><strong id="topic-count">00</strong><span>Concept tags</span></div>
+          <div><strong id="file-count">00</strong><span>Files tracked</span></div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="stats" aria-label="Journey statistics">
+      <div class="stat">
+        <strong id="stat-sessions">06</strong>
+        <span>Sessions logged</span>
+      </div>
+      <div class="stat">
+        <strong id="stat-files">00</strong>
+        <span>Files discovered</span>
+      </div>
+      <div class="stat">
+        <strong id="stat-tags">00</strong>
+        <span>Unique concepts</span>
+      </div>
+      <div class="stat">
+        <strong>live</strong>
+        <span>GitHub-powered</span>
+      </div>
+    </section>
+
+    <section class="highlights" id="highlights">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">At a glance</p>
+          <h2>What this journal holds</h2>
+        </div>
+        <p class="section-note">Each session card pulls from the repo automatically and opens the full write-up in a clean reader.</p>
+      </div>
+      <div class="highlight-grid">
+        <article class="highlight-card">
+          <span>01</span>
+          <h3>Session notes</h3>
+          <p>Markdown reports render directly from each day folder, so adding a new session is just a push to GitHub.</p>
+        </article>
+        <article class="highlight-card">
+          <span>02</span>
+          <h3>Code & assets</h3>
+          <p>Python files, screenshots, and other artifacts are listed right inside the session view.</p>
+        </article>
+        <article class="highlight-card">
+          <span>03</span>
+          <h3>Searchable archive</h3>
+          <p>Use search to jump across concepts, titles, file names, and session reflections.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="journal" id="journal">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Daily journal</p>
+          <h2>Sessions</h2>
+        </div>
+        <label class="search">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="Try functions, memory, hashing..." />
+        </label>
+      </div>
+
+      <div class="journal-layout">
+        <aside class="timeline-panel">
+          <p class="aside-label">Timeline</p>
+          <div id="timeline"></div>
+        </aside>
+
+        <div id="report-list" class="report-list"></div>
+      </div>
+
+      <p class="empty" id="empty" hidden>No sessions match your search yet.</p>
+    </section>
+
+    <section class="about" id="about">
+      <p class="eyebrow">Why it exists</p>
+      <div class="about-grid">
+        <h2>Progress feels real when it is documented with care.</h2>
+        <div>
+          <p>This version is built to feel more like a personal studio journal: airy backgrounds, warm accents, and a calmer reading flow.</p>
+          <p>Add a new <code>DAY-7</code> folder, drop in a <code>Readme.md</code> or <code>README.md</code>, commit to GitHub, and the site will surface it automatically.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>(c) 2026 Vanshika</span>
+    <span>Learning · Building · Sharing</span>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <dialog id="reader">
+    <button class="close" aria-label="Close">x</button>
+    <article id="reader-content"></article>
+  </dialog>
+
+  <script src="reports.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
