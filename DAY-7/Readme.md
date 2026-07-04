@@ -1,6 +1,6 @@
 # Day 7 – Recursion, Memory Management, Searching, and Sorting Algorithms in Python
 
-**Date:** 2nd July 2026
+**Date:** 3rd July 2026
 
 ## Overview
 
