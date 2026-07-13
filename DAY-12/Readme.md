@@ -33,6 +33,9 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
   * Action Execution
   * Learning and Continuous Improvement
 * Understood how AI agents increase productivity by automating repetitive and decision-based processes.
+* Learned the difference between traditional software and AI agents.
+* Understood that AI agents can improve their performance through learning and experience.
+* Explored common real-world applications such as virtual assistants, recommendation systems, and robotics.
 
 ---
 
@@ -42,6 +45,8 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
 * Learned how AI agents collect relevant data, evaluate available information, and determine the best possible action using predefined rules or learned experiences.
 * Understood the importance of AI agents in developing intelligent and autonomous applications.
 * Discussed their growing adoption across sectors such as healthcare, finance, transportation, retail, and customer service.
+* Learned that AI agents follow a cycle of sensing, processing, decision-making, and action.
+* Understood the role of feedback in improving future decisions.
 
 ---
 
@@ -55,6 +60,8 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
   * Reduced congestion within parking areas.
   * Enhanced customer convenience.
   * Automated and efficient parking management.
+* Learned that AI sensors provide real-time parking updates.
+* Understood how the system helps reduce traffic congestion and fuel consumption.
 
 ---
 
@@ -68,6 +75,8 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
   * Content Marketing
   * Email Marketing
   * Online Advertising
+* Learned how digital marketing helps businesses reach a wider audience.
+* Understood the importance of creating quality content and improving online visibility.
 
 ---
 
@@ -77,6 +86,8 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
 * Understood the value of producing engaging and high-quality content to attract users.
 * Discussed how maintaining consistency and using data-driven strategies improve campaign performance.
 * Explored the significance of analytics in tracking results and optimizing future marketing efforts.
+* Learned the importance of setting clear marketing goals.
+* Understood how SEO and analytics help improve campaign performance.
 
 ---
 
@@ -87,9 +98,13 @@ The twelfth day of the Agentic AI Training focused on the practical implementati
 * Explored FinLo as an effective example of AI-powered smart parking management.
 * Gained foundational knowledge of Digital Marketing and its major online channels.
 * Understood how strategic digital marketing helps businesses strengthen their online presence and customer engagement.
+* Developed a basic understanding of AI applications in real-world industries.
+* Improved knowledge of modern marketing techniques and business growth strategies.
 
 ---
 
 ## Concluding Remarks
 
-The session demonstrated how Artificial Intelligence is transforming real-world operations through intelligent automation. The FinLo case study provided practical insight into how AI agents can optimize parking management and improve the overall user experience. The introduction to Digital Marketing highlighted the importance of online platforms in modern business growth and customer engagement. Overall, the session expanded my understanding of both AI-driven solutions and digital marketing strategies, illustrating how technology is shaping today's business environment.
+The session demonstrated how Artificial Intelligence is transforming real-world operations through intelligent automation. The FinLo case study provided practical insight into how AI agents can optimize parking management and improve the overall user experience. The introduction to Digital Marketing highlighted the importance of online platforms in modern business growth and customer engagement.
+
+Overall, the session enhanced my understanding of AI-powered solutions and digital marketing concepts, demonstrating how both technologies contribute to smarter business operations and improved customer experiences.
